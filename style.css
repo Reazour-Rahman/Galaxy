@@ -7,8 +7,8 @@
     }
     
     .list {
-        margin-left: 200px;
-        margin-top: 50px;
+        margin-left: 150px;
+        margin-top: 70px;
         padding: 30px;
     }
     
@@ -127,18 +127,38 @@
         display: flex;
         background-color: gray;
         padding: 60px;
+        margin-bottom: 120px;
     }
     
     .p {
-        width: 50%;
-        margin-left: 200px;
+        width: 40%;
+        margin-left: 100px;
         color: aliceblue;
     }
     
     .q {
-        width: 50%;
-        margin-right: 200px;
+        width: 60%;
+        margin-right: 100px;
         text-align: justify;
         line-height: 25px;
         color: aliceblue;
+    }
+    
+    .manu li {
+        display: inline;
+        margin-top: -25;
+        margin: 25px;
+    }
+    
+    .manu {
+        margin-left: 365px;
+    }
+    
+    .pt {
+        margin-left: 165px;
+        font-size: 30px;
+    }
+    
+    .manu li a {
+        text-decoration: none;
     }
