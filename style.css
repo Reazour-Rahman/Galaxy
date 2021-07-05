@@ -1,0 +1,75 @@
+    body {
+        font-family: 'Cabin', sans-serif;
+    }
+    
+    section {
+        display: flex;
+    }
+    
+    .list {
+        margin-left: 200px;
+        margin-top: 50px;
+        padding: 30px;
+    }
+    
+    .list li {
+        display: inline;
+    }
+    
+    .list li a {
+        text-decoration: none;
+        color: rgb(255, 255, 255);
+        font-size: 20px;
+        margin-left: 25px;
+    }
+    
+    .logo {
+        margin: 70px 150px;
+    }
+    
+    section.ego {
+        display: block;
+    }
+    
+    .tag {
+        text-align: center;
+        font-size: 40px;
+        color: white;
+    }
+    
+    .lorem {
+        text-align: center;
+        color: gainsboro;
+        font-size: 17px;
+    }
+    
+    .mg {
+        margin-bottom: -20px;
+    }
+    
+    .mgf {
+        margin-bottom: -40px;
+    }
+    
+    .capsole a {
+        text-decoration: none;
+        background-color: tomato;
+        padding: 20px 40px;
+        font-size: 25px;
+        color: aliceblue;
+        border-radius: 10px;
+    }
+    
+    .capsole {
+        text-align: center;
+        margin-top: 70px;
+    }
+    
+    .ego {
+        margin-top: -20px;
+    }
+    
+    .bg {
+        background-image: url(images/background.jpg);
+        height: 750px;
+    }
