@@ -152,6 +152,7 @@
     
     .manu {
         margin-left: 365px;
+        margin-top: 35px;
     }
     
     .pt {
@@ -161,4 +162,20 @@
     
     .manu li a {
         text-decoration: none;
+    }
+    
+    .bt {
+        background-color: deepskyblue;
+        padding: 10px;
+        border-radius: 8px;
+        color: aliceblue;
+    }
+    
+    .image-box {
+        margin-left: 11%;
+        margin-right: 10%;
+    }
+    
+    .image-box div {
+        margin: auto;
     }
